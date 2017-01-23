@@ -6,7 +6,7 @@ This is the bash script I utilized to gain 100 contributions for win a flag for 
 Some conditions that must be met are:
 
 git config --global credential.helper 'cache --timeout=3600'
-//this will allow the script to run without pasuing for a username and password
+//this will allow the script to run without pausing for a username and password--this will expire in 3600 seconds (15 min)
 //verify you git install is functioning correctly
 
 git config --global user.name "YOUR NAME"
