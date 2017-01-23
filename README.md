@@ -15,4 +15,6 @@ git config --global user.name "YOUR NAME"
 git config --global user.email "YOUR EMAIL ADDRESS"
 //required to be set as a contributor's e-mail or else contirbutions will not increment
 
+Make a "repository" like "Flag_Points," clone it, place the flagger.sh in the root of the clone directory and run it. It will spit out errors if your git is not configured correctly. If successful, it will iterate 100 times and succeed.
+
 Enjoy the extra points!
