@@ -1,4 +1,4 @@
-# Flag_Points
+# Flag_Points [Please dont use this! It's SPAM!!!]
 Flag Points!
 
 This is the bash script I utilized to gain 100 contributions to win a flag for our class.
